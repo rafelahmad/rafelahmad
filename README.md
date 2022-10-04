@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafel Ahmed</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer from India</h3>
 
-<img align="right" alt="coding" weight="400" src=https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47z2z6gl6hz4envcnpn03r28vg2jwsykagtvbu58ym&rid=giphy.gif&ct=g>
+<img align="right" alt="coding" weight="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47z2z6gl6hz4envcnpn03r28vg2jwsykagtvbu58ym&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafelahmad&label=Profile%20views&color=0e75b6&style=flat" alt="rafelahmad" /> </p>
 
