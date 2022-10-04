@@ -1,8 +1,8 @@
-
+![logo](https://webutopian.com/wp-content/uploads/2021/04/5c25584afd28a745a4eea175_edge-computing-gif.gif)
 <h1 align="center">Hi 👋, I'm Rafel Ahmed</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer from India</h3>
 
-<img align="right" alt="coding" weight="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif">
+<img align="right" alt="coding" weight="400" src="https://www.nutanix.com/content/dam/nutanix/ja/global/icons/premium-icons/ani-run.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafelahmad&label=Profile%20views&color=0e75b6&style=flat" alt="rafelahmad" /> </p>
 
