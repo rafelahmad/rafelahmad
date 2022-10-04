@@ -1,4 +1,4 @@
-![logo](https://github.com/rafelahmad/rafelahmad/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b.gif)
+
 <h1 align="center">Hi 👋, I'm Rafel Ahmed</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer from India</h3>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafelahmad&show_icons=true&locale=en" alt="rafelahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafelahmad&" alt="rafelahmad" /></p>
+![logo](https://github.com/rafelahmad/rafelahmad/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b.gif)
